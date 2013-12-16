@@ -1,1 +1,3 @@
 Make sure that you need to build all code
+
+Brick's changes
